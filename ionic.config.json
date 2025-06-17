@@ -1,0 +1,7 @@
+{
+  "name": "testpokeapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
